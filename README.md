@@ -2,4 +2,5 @@
 First repository
 Hello folks 
 
-Aman here,i like to blah blah blah and blah.
+Aman here,i am new to the open source community and i like 
+competitive programming(i use java).
